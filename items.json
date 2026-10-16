@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Кровотерн",
+    "id": 236770,
+    "type": "commodity",
+    "threshold_percent": 30
+  },
+  {
+    "name": "Частица света",
+    "id": 236949,
+    "type": "commodity",
+    "threshold_percent": 30
+  },
+  {
+    "name": "Тихоцвет",
+    "id": 236761,
+    "type": "commodity",
+    "threshold_percent": 20
+  },
+  {
+    "name": "Луносветское лечебное зелье",
+    "id": 241305,
+    "type": "commodity",
+    "threshold_percent": 20
+  },
+  {
+    "name": "Освежающая сыворотка",
+    "id": 241307,
+    "type": "commodity",
+    "threshold_percent": 30
+  },
+  {
+    "name": "Сребревица",
+    "id": 236776,
+    "type": "commodity",
+    "threshold_percent": 30
+  },
+  {
+    "name": "Потенциал Света",
+    "id": 241309,
+    "type": "commodity",
+    "threshold_percent": 30
+  },
+  {
+    "name": "Азефит",
+    "id": 236774,
+    "type": "commodity",
+    "threshold_percent": 30
+  }
+]
